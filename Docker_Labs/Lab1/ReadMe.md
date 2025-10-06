@@ -45,7 +45,7 @@ Click **Execute** — you’ll get:
 
 ---
 
-## 🧩 Project Files
+## Project Files
 
 ```
 Lab1/
